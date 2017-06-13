@@ -65,8 +65,6 @@ for client in clients:
 
 
 
-
-
 ##Create_baseslip(pClientName, pReferenceName, pExtra, pDescription, pDate)
 #eCenter_buttons.mydriver.find_element_by_xpath(xpaths['Extra_Field']).send_keys(pExtra)
 #eCenter_buttons.mydriver.find_element_by_xpath(xpaths['Desc_Field']).clear()
@@ -77,3 +75,5 @@ for client in clients:
 #eCenter_buttons.mydriver.find_element_by_xpath(xpaths['Time_Spent']).send_keys(pTimeSpent)
 #eCenter_buttons.mydriver.find_element_by_xpath(xpaths['Complete_box']).click()
 #eCenter_buttons.mydriver.find_element_by_xpath(xpaths['Slp_Submit_btn']).click()
+
+#test
